@@ -9,20 +9,28 @@ I will continue adding more games to this collection.
 # Current Games
 1. Computer Quiz (game_quiz.py)
 
-A simple quiz that tests basic computer knowledge (CPU, GPU, RAM, PSU).
+  A simple quiz that tests basic computer knowledge (CPU, GPU, RAM, PSU).
 Includes scoring and percentage output.
 
 2. Number Guesser (number_gusser.py)
 
-The player selects a maximum number, and the program generates a random number.
+  The player selects a maximum number, and the program generates a random number.
 Guess until you get it right.
 
 3. Rock–Paper–Scissors (rock_paper_scissors.py)
 
-A classic RPS game where the user plays against the computer.
+  A classic RPS game where the user plays against the computer.
 Uses random to generate the computer’s move.
 
 4. Choose Your Own Adventure (choose_your_own_adventure.py)
 
-A text-based story game with multiple endings.
+  A text-based story game with multiple endings.
 Includes input validation and clear branching choices.
+
+5. Password Manager (password_manager.py)
+   
+A simple text-based password manager that allows the user to:
+  Add new account + password entries  
+  View existing saved passwords  
+  Store data in a local passwords.txt 
+  Use a master password at the start (basic demonstration) 
