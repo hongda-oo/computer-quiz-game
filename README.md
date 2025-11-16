@@ -46,3 +46,7 @@ This program includes:
 - Error handling (including division by zero)  
 - A clean menu interface  
 - Option to perform multiple calculations in a loop  
+
+9.Turtle Race (turtle_race.py)
+A graphical turtle race game built with Python's `turtle` module. 
+Multiple colored turtles race across the screen with random speeds, and the player can bet on which color will win.
